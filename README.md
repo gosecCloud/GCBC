@@ -37,6 +37,5 @@ If you'd like to get involved in HyphaeLedger (HYPL) or have any questions, plea
 <ul>
 <li><b>Email:</b> getinvolved@gosec.cloud</li>
 <li><b>GitHub:</b> https://git.gosec.cloud</li>
-<li><b>Web:</b> https://www.gosec.cloud/community</li>
 </ul>
 Together, we can create a future where blockchain technology and cryptocurrency drive the next generation of cloud services. Join us in shaping this exciting future with HyphaeLedger (HYPL)!
